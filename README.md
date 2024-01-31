@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Sim </h1>
-</hr>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=cecece&random=false&width=650&lines=Sim+is+a+student+majoring+in+Computer+Science+at+UBC;Sim+is+a+student+minoring+in+Data+Science+at+UBC)](https://git.io/typing-svg)
 
@@ -10,7 +9,6 @@
 </a>
 
 <h2> ℹ General Info </h2>
-</hr>
 
 <ul>
   <li> 🔭 I am currently working on learning machine-learning and data analysis at UBC </li>
@@ -20,7 +18,6 @@
 </ul>
 
 <h2> 💻 Tech Stack </h2>
-</hr>
 
 <h3> 🧑‍💻 Frontend </h3>
 
@@ -53,7 +50,7 @@
   <img width="48" height="48" src="https://img.icons8.com/external-becris-flat-becris/64/external-r-data-science-becris-flat-becris.png" alt="R" title="R"/>
 </div>
 
-<h2> 🛠️ Languages </h2>
+<h3> 🛠️ Languages </h3>
 
 <div style="display: flex; flex-direction: row;">
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming" title="c"/>
