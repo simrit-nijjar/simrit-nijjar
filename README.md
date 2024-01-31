@@ -13,8 +13,8 @@
 </hr>
 
 <ul>
-  <li> 🔭 I am currently working on learning machine learning and data analysis at UBC </li>
-  <li> 🌱 I am also currently looking for an intership anywhere that I can travel from Canada </li>
+  <li> 🔭 I am currently working on learning machine-learning and data analysis at UBC </li>
+  <li> 🌱 I am also currently looking for an internship anywhere that I can travel from Canada </li>
   <li> 👯 I love automating my life to make it more convenient in the most inconvenient ways </li>
   <li> 💬 Ask me about my home media servers 🤭 </li>
 </ul>
